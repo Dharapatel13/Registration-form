@@ -1,0 +1,75 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.reg {
+  background-color: #accffe;
+  height: 46em;
+  z-index: -1;
+}
+
+.reg-row {
+  top: -35em;
+}
+
+.reg-form {
+  padding: 5em;
+}
+
+.form-1 {
+  margin-top: 7em !important;
+}
+
+.form {
+  text-transform: uppercase;
+  font-size: 1em;
+  font-family: muli-semibold;
+  color: #333;
+  height: 30em;
+  letter-spacing: 3px;
+  text-align: center;
+  margin-bottom: 33px;
+}
+
+.btn {
+  background: #9cf;
+  color: #fff;
+  text-transform: uppercase;
+  font-family: muli-semibold;
+  font-size: 15px;
+  letter-spacing: 2px;
+  overflow: hidden;
+  font-weight: bold;
+}
+
+.img-1 {
+  z-index: 99;
+  left: -10em;
+  bottom: 1em;
+}
+
+.img-2 {
+  left: 19em;
+  bottom: 1.3em;
+}
+
+.user {
+  border: none;
+  border-bottom: 1px solid #e6e6e6;
+  display: block;
+  width: 100%;
+  height: 38px;
+  background: 0 0;
+  padding: 3px 42px 0;
+  color: #666;
+  font-family: muli-semibold;
+  font-size: 16px;
+}
+
+@media only screen and (max-width: 750px) {
+  .reg {
+    background-color: white;
+  }
+}
+/*# sourceMappingURL=style.css.map */
